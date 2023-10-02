@@ -186,7 +186,7 @@ Project Link: [https://github.com/slymackjr/library](https://github.com/slymackj
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/slymackjr/library.svg?style=for-the-badge
-[contributors-url]: https://github.com/your_username/library-management/graphs/contributors
+[contributors-url]: https://github.com/slymackjr/library/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/slymackjr/library.svg?style=for-the-badge
 [forks-url]: https://github.com/slymackjr/library/network/members
 [stars-shield]: https://img.shields.io/github/stars/slymackjr/library.svg?style=for-the-badge
