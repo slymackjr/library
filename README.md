@@ -112,8 +112,8 @@ The system includes the following key pages and features:
 Additionally, here is the UML Class Diagram and Use Case Diagram illustrating the system's design.
 
 <div style="display: flex; flex-direction: column; align-items: center; overflow-y: auto; max-height: 400px;">
-  <img src="images/usecase.jpg" alt="Image 1" style="width: 100%; max-height: 100%;">
-  <img src="images/uml.jpg" alt="Image 2" style="width: 100%; max-height: 100%;">
+<img src="images/usecase.jpg" alt="Image 1" style="max-width: 400px; max-height: 100%;">
+<img src="images/uml.jpg" alt="Image 2" style="max-width: 400px; max-height: 100%;">
 </div>
 
 
@@ -122,16 +122,16 @@ Additionally, here is the UML Class Diagram and Use Case Diagram illustrating th
 Here is an image carousel slider showcasing some of the system's features:
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <img src="images/Picture10.png" alt="Image 10" style="width: 100%; height: 100%;">
-  <img src="images/Picture9.png" alt="Image 9" style="width: 100%; height: 100%;">
-  <img src="images/Picture8.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture7.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture6.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture5.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture4.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture3.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture2.png" alt="Image 8" style="width: 100%; height: 100%;">
-  <img src="images/Picture1.png" alt="Image 8" style="width: 100%; height: 100%;">
+  <img src="images/Picture10.png" alt="Image 10" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture9.png" alt="Image 9" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture8.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture7.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture6.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture5.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture4.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture3.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture2.png" alt="Image 8" style="max-width: 400px; height: 100%;">
+  <img src="images/Picture1.png" alt="Image 8" style="max-width: 400px; height: 100%;">
 </div>
 
 
